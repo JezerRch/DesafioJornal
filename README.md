@@ -26,5 +26,9 @@ Solução para exibir seus classificados na internet
             <h2>Contagem dos Classificados</h2>
             <br><br>
             <img class="img-teste" src="img/contagem.png" alt="contagem">
+             <br><br>
+              <h2>Construido com:</h2>
+               <h4>PHP e Bootstrap</h4>
+            <br><br>
         </div>
     </div>
