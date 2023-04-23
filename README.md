@@ -1,9 +1,7 @@
-<div class="container">
-        <h2>Executando os testes</h2>
-                https://user-images.githubusercontent.com/114297585/233856021-86f48f69-df5c-47fc-99f2-48ecb3ed4db8.mp4
-        <br><br>
-        <div>
-            <h2>Tela inicial</h2>
+<h2>Executando o teste</h2>
+
+https://user-images.githubusercontent.com/114297585/233856140-26896907-6cfb-42d7-85ed-31866b997d69.mp4
+<h2>Tela inicial</h2>
             <br><br>
             <img class="img-teste" src="img/tela-inicial.png" alt="tela-inicial">
             <br><br>
@@ -21,5 +19,3 @@
             <br><br>
             <h2>Construido com:</h2>
             <h4>PHP e Bootstrap</h4>
-        </div>
-    </div>
