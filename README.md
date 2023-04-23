@@ -1,17 +1,8 @@
-# DesafioJornal
-
-Solução para exibir seus classificados na internet
-
-
- <div class="container">
+<div class="container">
         <h2>Executando os testes</h2>
         <br><br>
         <video width="640" height="360" controls>
             <source src="img/demonstracao.mp4" type="video/mp4">
-
-https://user-images.githubusercontent.com/114297585/233855822-b1de29c0-f10b-4753-9319-6fa23807a6dc.mp4
-
-
         </video>
         <br><br>
         <div>
@@ -30,9 +21,8 @@ https://user-images.githubusercontent.com/114297585/233855822-b1de29c0-f10b-4753
             <h2>Contagem dos Classificados</h2>
             <br><br>
             <img class="img-teste" src="img/contagem.png" alt="contagem">
-             <br><br>
-              <h2>Construido com:</h2>
-               <h4>PHP e Bootstrap</h4>
             <br><br>
+            <h2>Construido com:</h2>
+            <h4>PHP e Bootstrap</h4>
         </div>
     </div>
