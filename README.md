@@ -3,7 +3,11 @@
 <br>
 <h2>Executando o teste</h2>
 
-https://user-images.githubusercontent.com/114297585/233856140-26896907-6cfb-42d7-85ed-31866b997d69.mp4
+
+
+https://user-images.githubusercontent.com/114297585/234078346-958a460b-3ff2-48bd-8cea-ef617580364f.mp4
+
+
 <h2>Tela inicial</h2>
             <br><br>
             <img class="img-teste" src="img/tela-inicial.png" alt="tela-inicial">
